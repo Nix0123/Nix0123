@@ -26,7 +26,7 @@ public class Taranjeet {
     String education   = "MCA @ Chandigarh University (2024–2026)";
 
     String primaryDomain   = "Backend Development — Java EE & Spring Boot";
-    String[] interests     = {"AI / Machine Learning", "Big Data", "Network Administration"};
+    String[] interests     = {"AI / Machine Learning", "Network Administration"};
 
     String[] languages     = {"Java", "Python", "SQL"};
     String[] frameworks    = {"Spring Boot", "Spring MVC", "Hibernate ORM", "Java EE / Jakarta EE"};
@@ -48,7 +48,7 @@ public class Taranjeet {
 | 🟢 Primary | 🔵 Growing Interest | 🟡 Exploring |
 |:---:|:---:|:---:|
 | **Backend — Java EE & Spring Boot** | **AI / Machine Learning** | **Network Administration** |
-| REST APIs, Hibernate ORM, DAO Pattern | Big Data, Infosys Springboard certified | VLAN, ACLs, DHCP, SSH, Cisco |
+| REST APIs, Hibernate ORM, DAO Pattern | VLAN, ACLs, DHCP, SSH, Cisco |
 | MySQL · MongoDB · Tomcat · Maven | Python for data & automation | Secure network architecture design |
 
 </div>
